@@ -1,0 +1,30 @@
+body
+{margin: 0;}
+h1{color: white;
+background-color: #1c1c48;
+margin: 0;
+text-align: center;
+font-size: 80px;
+
+}
+h2{
+	color: white;
+	text-align: center;
+	margin: 0;
+	font-size: 55px;
+	letter-spacing: 1px;
+}
+p{
+	font-size: 25px;
+	color: white;
+}
+div{
+	width: 1200px;
+	background-color:#1f2c74;
+	margin: auto; 
+	text-align: center;
+	padding: 40px;
+}
+img{
+	width: 80px;
+}
